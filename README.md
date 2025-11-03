@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=2198f7&width=700&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+%F0%9F%92%BB" alt="Typing SVG">
-  </a>
-</p>
-
 # 👋 Hi, I'm Edinson Quispe
 
 ### 💻 Passionate Self-Taught FullStack Developer & Web Developer.
@@ -63,12 +57,20 @@ I love building amazing web applications and exploring the world of web develope
 
 ---
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=2198f7&width=700&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+%F0%9F%92%BB" alt="Typing SVG">
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-![Edinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdinsonQuispe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdinsonQuispe&layout=compact&theme=radical)
+![Edinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mervoid&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mervoid&layout=compact&theme=radical)
 
 </div>
 
