@@ -51,8 +51,6 @@ I love building amazing web applications and exploring modern web technologies.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edinson_Quispe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/edinson-quispe)
 [![Instagram](https://img.shields.io/badge/Instagram-@marshall.33.ee-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marshall.33.ee)
-[![GitHub](https://img.shields.io/badge/GitHub-Mervoid-181717?style=for-the-badge&logo=github)](https://github.com/Mervoid)
-[![GitHub Followers](https://img.shields.io/github/followers/Mervoid?style=for-the-badge&logo=github)](https://github.com/Mervoid)
 [![GitHub Stars](https://img.shields.io/github/stars/Mervoid?style=for-the-badge&logo=github&color=yellow)](https://github.com/Mervoid)
 
 </div>
