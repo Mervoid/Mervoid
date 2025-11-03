@@ -16,6 +16,18 @@ I love building amazing web applications and exploring the world of web develope
 
 ---
 
+### 📫 Connect with me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edinson_Quispe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/edinson-quispe)
+[![Twitter](https://img.shields.io/badge/Twitter-@YourTwitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourTwitter)
+[![GitHub](https://img.shields.io/badge/GitHub-EdinsonQuispe-181717?style=for-the-badge&logo=github)](https://github.com/Mervoid)
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -40,18 +52,6 @@ I love building amazing web applications and exploring the world of web develope
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-
-</div>
-
----
-
-### 📫 Connect with me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edinson_Quispe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/edinson-quispe)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourTwitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourTwitter)
-[![GitHub](https://img.shields.io/badge/GitHub-EdinsonQuispe-181717?style=for-the-badge&logo=github)](https://github.com/EdinsonQuispe)
 
 </div>
 
