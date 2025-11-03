@@ -8,11 +8,11 @@ I love building amazing web applications and exploring modern web technologies.
 
 ### About Me
 
-- 💻 **Portfolio:** [Visit my website](https://edinsonquispe.dev)
-- 🧠 **Currently learning:** Systems Design & Architecture
+- 💻 **Portfolio:** [My website](https://edinsonquispe.dev)
+- 🧠 I am currently learning Systems, Design & Architecture 
 - 🎯 **2024 Goals:** Contribute to open source and build innovative projects
 - 🤝 **Looking to collaborate** on web development projects
-- 🎮 **Fun fact:** I love video games, anime, music and singing
+- 🎮 **Fun fact:** I love video games, anime, music & singing
 
 ---
 
@@ -31,7 +31,6 @@ I love building amazing web applications and exploring modern web technologies.
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
 <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
 
-<br><br>
 **Backend & Databases**
 <br>
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
@@ -78,6 +77,6 @@ I love building amazing web applications and exploring modern web technologies.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=2198f7&width=700&lines=Programmer,+Developer,+Designer+and+Freelancer+%F0%9F%92%BB" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=2198f7&width=700&lines=I'm+a+Programmer,+Developer,+Designer+and+Freelancer+%F0%9F%92%BB" alt="Typing SVG">
   </a>
 </p>
