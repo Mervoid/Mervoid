@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Edinson Quispe
 
-### 💻 Passionate Self-Taught FullStack Developer & Web Developer.
+### 💻 Passionate Self-Taught FullStack Developer
 
-I love building amazing web applications and exploring the world of web developer.
+I love building amazing web applications and exploring modern web technologies.
 
 ---
 
@@ -10,21 +10,9 @@ I love building amazing web applications and exploring the world of web develope
 
 - 🌐 **Portfolio:** [Visit my website](https://edinsonquispe.dev)
 - 🧠 **Currently learning:** Systems Design & Architecture
-- 🎯 **2022 Goals:** Develop the best web applications
-- 🤝 **Looking to collaborate** with companies or commercial projects
-- 🎮 **Fun fact:** I love video games, anime, music and sing 
-
----
-
-### 📫 Connect with me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edinson_Quispe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/edinson-quispe)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourTwitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourTwitter)
-[![GitHub](https://img.shields.io/badge/GitHub-EdinsonQuispe-181717?style=for-the-badge&logo=github)](https://github.com/Mervoid)
-
-</div>
+- 🎯 **2024 Goals:** Contribute to open source and build innovative projects
+- 🤝 **Looking to collaborate** on web development projects
+- 🎮 **Fun fact:** I love video games, anime, music and singing
 
 ---
 
@@ -57,35 +45,41 @@ I love building amazing web applications and exploring the world of web develope
 
 ---
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=2198f7&width=700&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+%F0%9F%92%BB" alt="Typing SVG">
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📫 Connect with me
 
 <div align="center">
-
-![Edinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mervoid&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mervoid&layout=compact&theme=radical)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edinson_Quispe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/edinson-quispe)
+[![Instagram](https://img.shields.io/badge/Instagram-@tu_usuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marshall.33.ee)
+[![GitHub](https://img.shields.io/badge/GitHub-Mervoid-181717?style=for-the-badge&logo=github)](https://github.com/Mervoid)
+[![GitHub Followers](https://img.shields.io/github/followers/Mervoid?style=for-the-badge&logo=github)](https://github.com/Mervoid)
+[![GitHub Stars](https://img.shields.io/github/stars/Mervoid?style=for-the-badge&logo=github&color=yellow)](https://github.com/Mervoid)
 
 </div>
 
-<!--
-**Mervoid/Mervoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats & Metrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
 
+![Edinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mervoid&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mervoid&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mervoid&theme=radical)
+
+</div>
+
+<!-----
+
+### 🌟 Recent Activity
+
+<!-- RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:end -->
+
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=2198f7&width=700&lines=Programmer,+Developer,+Designer+and+Freelancer+%F0%9F%92%BB" alt="Typing SVG">
+  </a>
+</p>
