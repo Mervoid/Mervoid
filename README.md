@@ -6,7 +6,7 @@ I love building amazing web applications and exploring modern web technologies.
 
 ---
 
-### 📍 About Me
+### About Me
 
 - 💻 **Portfolio:** [Visit my website](https://edinsonquispe.dev)
 - 🧠 **Currently learning:** Systems Design & Architecture
@@ -16,7 +16,7 @@ I love building amazing web applications and exploring modern web technologies.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@ I love building amazing web applications and exploring modern web technologies.
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 <div align="center">
 
@@ -64,7 +64,7 @@ I love building amazing web applications and exploring modern web technologies.
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### GitHub Stats & Metrics
 
 <div align="center">
 
