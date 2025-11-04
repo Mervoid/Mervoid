@@ -1,10 +1,6 @@
-# Hi, I'm Edinson Quispe 
+### Hi, I'm Edinson Quispe  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-### Passionate Self-Taught FullStack Developer
-
-I love building amazing web applications and exploring modern web technologies.
-
----
+## Passionate Self-Taught FullStack Developer
 
 ### About Me
 
@@ -14,7 +10,6 @@ I love building amazing web applications and exploring modern web technologies.
 - 🤝 **Looking to collaborate** on web development projects
 - 🎮 **Fun fact:** I love video games, anime, music & singing
 
----
 
 ### Tech Stack
 
@@ -43,7 +38,6 @@ I love building amazing web applications and exploring modern web technologies.
 
 </div>
 
----
 
 ### Connect with me
 
