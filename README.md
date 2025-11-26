@@ -61,10 +61,20 @@
 
 <div align="center">
 
-![Edinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mervoid&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mervoid&layout=compact&theme=radical)
 
-</div>
+<!-- GitHub Stats Card -->
+[![Edinson's GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=Mervoid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mervoid&theme=radical)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mervoid&theme=radical)
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mervoid&theme=radical)
+
+![Repositories](https://img.shields.io/badge/Repositories-10+-blue?style=flat-square)
+![Contributions](https://img.shields.io/badge/Contributions-100+-green?style=flat-square)
+![Commit Activity](https://img.shields.io/badge/Active%20Developer-Yes-success?style=flat-square)
 
 ---
 
